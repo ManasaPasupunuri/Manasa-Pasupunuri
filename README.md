@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manasa Pasupunuri</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript and its frameworks, PHP.**
+- 🌱 I’m currently learning **Javascript frameworks, PHP.**
 
 - 📫 How to reach me **manasapasupunuri4@gmail.com**
 
